@@ -16,7 +16,7 @@ This is repo is made for the purpose of adding ideas using technology and making
 * Make sure your contribution is useful and relevant before submitting. That implies it has enough content and every item has a good succinct description.
 * Make an individual pull request for each suggestion.
 Use the following format: - [Repository Name](link-to-repository-label) _(label: Ideas-and-applications-in-the-repository)_ <br> Description
-Example link formatting: - [Ideas-and-application](https://github.com/oshyam/Ideas-and-applications/labels/Ideas-and-application) _(label: good-first-contribution)_ <br> A list of awesome beginners-friendly projects.
+Example link formatting: - [Ideas-and-application](https://github.com/oshyam/Ideas-and-applications/labels/Ideas-and-application) _(label: hacktoberfest)_ <br> A list of awesome beginners-friendly projects.
 Link additions should be added to the bottom of the relevant category.
 New categories or improvements to the existing categorization are welcome.
 * Check your spelling and grammar.
