@@ -9,6 +9,7 @@ This is repo is made for the purpose of adding ideas using technology and making
 
 ## Getting started
 
+> Star this 🌟 repo if you find it helpful.
 * Please ensure that your pull request adheres to the following guidelines:
 
 * add your ideas and application by adding folder named as Ideas_by_Your_Name and adding  Idea.md that consists of name and github profile and your ideas + small application(any) if you don't have any application yet you can submt your ideas but that idea shloud be meaningful and helpful for the next world.
